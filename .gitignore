@@ -1,0 +1,9 @@
+node_modules/**/*
+.expo/*
+credential.js
+npm-debug.*
+*.jks
+*.p12
+*.key
+*.mobileprovision
+./credential.js
